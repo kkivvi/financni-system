@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+   <finSysAktualizace>
+      <aktualizace IdAplikace="SpravaFinanci">
+	     <verze>2.0.0.0</verze>
+		   <url>https://github.com/kkivvi/financni-system/blob/master/Správa Financí.exe</url>
+		   <jmenoSouboru>Správa Financí.exe</jmenoSouboru>
+		   <popis>test knihovny pro aktualizaci</popis>
+		   <vstupniArgs></vstupniArgs>
+	    </aktualizace>
+   </finSysAktualizace>
