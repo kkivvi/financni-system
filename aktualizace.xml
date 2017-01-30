@@ -2,7 +2,7 @@
    <finSysAktualizace>
       <aktualizace IdAplikace="SpravaFinanci">
 	     <verze>2.0.0.0</verze>
-		   <url>https://github.com/kkivvi/financni-system/blob/master/Správa Financí.exe</url>
+		   <url>https://github.com/kkivvi/financni-system/blob/master/Spr%C3%A1va%20Financ%C3%AD.exe</url>
 		   <jmenoSouboru>Správa Financí.exe</jmenoSouboru>
 		   <popis>test knihovny pro aktualizaci</popis>
 		   <vstupniArgs></vstupniArgs>
